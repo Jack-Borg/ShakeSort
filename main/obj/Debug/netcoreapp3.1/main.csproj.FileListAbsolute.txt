@@ -1,0 +1,22 @@
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.exe
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.deps.json
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.json
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.dev.json
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.dll
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.pdb
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.csprojAssemblyReference.cache
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.AssemblyInfoInputs.cache
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.AssemblyInfo.cs
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.dll
+C:\Users\GAIMZ\OneDrive\CPH Business\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.pdb
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.csprojAssemblyReference.cache
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.AssemblyInfoInputs.cache
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.AssemblyInfo.cs
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.dll
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\obj\Debug\netcoreapp3.1\main.pdb
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.exe
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.deps.json
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.json
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.dev.json
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.dll
+C:\Users\GAIMZ\Software Dev\Algo\ShakeSort\main\bin\Debug\netcoreapp3.1\main.pdb
