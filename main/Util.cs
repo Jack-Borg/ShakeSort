@@ -24,7 +24,7 @@ namespace main
         
         public static String[] GetText(String path)
         {
-            String pattern = "[a-z][a-z']*";
+            String regex = "[a-z]+'?-?[a-z]*";
             List<String> list = new List<string>();
             using (StreamReader sr = new StreamReader(new BufferedStream(File.Open(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))))
             {
@@ -32,7 +32,7 @@ namespace main
                 while ((line = sr.ReadLine()) != null)
                 {
                     line = line.ToLower();
-                    MatchCollection matches = Regex.Matches(line, pattern);
+                    MatchCollection matches = Regex.Matches(line, regex);
                     foreach (Match match in matches)
                         list.Add(match.Value);
                 } 

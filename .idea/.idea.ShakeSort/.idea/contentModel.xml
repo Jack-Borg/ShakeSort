@@ -21,7 +21,7 @@
         <e p="Program.cs" t="Include" />
         <e p="Selection.cs" t="Include" />
         <e p="test.cs" t="Include" />
-        <e p="TrieSort.cs" t="Include" />
+        <e p="Trie.cs" t="Include" />
         <e p="Util.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
